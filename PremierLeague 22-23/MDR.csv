@@ -1,0 +1,381 @@
+fixture_id,teams_home_id,teams_home_name,teams_home_winner,teams_away_id,teams_away_name,teams_away_winner,goals_home,goals_away
+867946,52,Crystal Palace,False,42,Arsenal,True,0,2
+867947,36,Fulham,,40,Liverpool,,2,2
+867948,35,Bournemouth,True,66,Aston Villa,False,2,0
+867949,63,Leeds,True,39,Wolves,False,2,1
+867950,46,Leicester,,55,Brentford,,2,2
+867951,34,Newcastle,True,65,Nottingham Forest,False,2,0
+867952,47,Tottenham,True,41,Southampton,False,4,1
+867953,45,Everton,False,49,Chelsea,True,0,1
+867954,33,Manchester United,False,51,Brighton,True,1,2
+867955,48,West Ham,False,50,Manchester City,True,0,2
+867956,42,Arsenal,True,46,Leicester,False,4,2
+867957,66,Aston Villa,True,45,Everton,False,2,1
+867958,55,Brentford,True,33,Manchester United,False,4,0
+867959,51,Brighton,,34,Newcastle,,0,0
+867960,49,Chelsea,,47,Tottenham,,2,2
+867961,40,Liverpool,,52,Crystal Palace,,1,1
+867962,50,Manchester City,True,35,Bournemouth,False,4,0
+867963,65,Nottingham Forest,True,48,West Ham,False,1,0
+867964,41,Southampton,,63,Leeds,,2,2
+867965,39,Wolves,,36,Fulham,,0,0
+867966,35,Bournemouth,False,42,Arsenal,True,0,3
+867967,52,Crystal Palace,True,66,Aston Villa,False,3,1
+867968,45,Everton,,65,Nottingham Forest,,1,1
+867969,36,Fulham,True,55,Brentford,False,3,2
+867970,63,Leeds,True,49,Chelsea,False,3,0
+867971,46,Leicester,False,41,Southampton,True,1,2
+867972,33,Manchester United,True,40,Liverpool,False,2,1
+867973,34,Newcastle,,50,Manchester City,,3,3
+867974,47,Tottenham,True,39,Wolves,False,1,0
+867975,48,West Ham,False,51,Brighton,True,0,2
+867976,42,Arsenal,True,36,Fulham,False,2,1
+867977,66,Aston Villa,False,48,West Ham,True,0,1
+867978,55,Brentford,,45,Everton,,1,1
+867979,51,Brighton,True,63,Leeds,False,1,0
+867980,49,Chelsea,True,46,Leicester,False,2,1
+867981,40,Liverpool,True,35,Bournemouth,False,9,0
+867982,50,Manchester City,True,52,Crystal Palace,False,4,2
+867983,65,Nottingham Forest,False,47,Tottenham,True,0,2
+867984,41,Southampton,False,33,Manchester United,True,0,1
+867985,39,Wolves,,34,Newcastle,,1,1
+867986,35,Bournemouth,,39,Wolves,,0,0
+867987,42,Arsenal,True,66,Aston Villa,False,2,1
+867988,36,Fulham,True,51,Brighton,False,2,1
+867989,63,Leeds,,45,Everton,,1,1
+867990,46,Leicester,False,33,Manchester United,True,0,1
+867991,48,West Ham,,47,Tottenham,,1,1
+867992,52,Crystal Palace,,55,Brentford,,1,1
+867993,41,Southampton,True,49,Chelsea,False,2,1
+867994,40,Liverpool,True,34,Newcastle,False,2,1
+867995,50,Manchester City,True,65,Nottingham Forest,False,6,0
+867996,66,Aston Villa,,50,Manchester City,,1,1
+867997,55,Brentford,True,63,Leeds,False,5,2
+867998,51,Brighton,True,46,Leicester,False,5,2
+867999,49,Chelsea,True,48,West Ham,False,2,1
+868000,45,Everton,,40,Liverpool,,0,0
+868001,33,Manchester United,True,42,Arsenal,False,3,1
+868002,34,Newcastle,,52,Crystal Palace,,0,0
+868003,65,Nottingham Forest,False,35,Bournemouth,True,2,3
+868004,47,Tottenham,True,36,Fulham,False,2,1
+868005,39,Wolves,True,41,Southampton,False,1,0
+868006,35,Bournemouth,False,51,Brighton,True,0,2
+868007,42,Arsenal,True,45,Everton,False,4,0
+868008,52,Crystal Palace,,33,Manchester United,,1,1
+868009,36,Fulham,True,49,Chelsea,False,2,1
+868010,63,Leeds,True,65,Nottingham Forest,False,2,1
+868011,46,Leicester,False,66,Aston Villa,True,1,2
+868012,40,Liverpool,True,39,Wolves,False,2,0
+868013,50,Manchester City,True,47,Tottenham,False,4,2
+868014,41,Southampton,False,55,Brentford,True,0,2
+868015,48,West Ham,False,34,Newcastle,True,1,5
+868016,66,Aston Villa,True,41,Southampton,False,1,0
+868017,55,Brentford,False,42,Arsenal,True,0,3
+868018,51,Brighton,True,52,Crystal Palace,False,1,0
+868019,49,Chelsea,,40,Liverpool,,0,0
+868020,45,Everton,True,48,West Ham,False,1,0
+868021,33,Manchester United,,63,Leeds,,2,2
+868022,34,Newcastle,,35,Bournemouth,,1,1
+868023,65,Nottingham Forest,False,36,Fulham,True,2,3
+868024,47,Tottenham,True,46,Leicester,False,6,2
+868025,39,Wolves,False,50,Manchester City,True,0,3
+868026,35,Bournemouth,,55,Brentford,,0,0
+868027,42,Arsenal,True,47,Tottenham,False,3,1
+868028,52,Crystal Palace,False,49,Chelsea,True,1,2
+868029,36,Fulham,False,34,Newcastle,True,1,4
+868030,63,Leeds,,66,Aston Villa,,0,0
+868031,46,Leicester,True,65,Nottingham Forest,False,4,0
+868032,40,Liverpool,,51,Brighton,,3,3
+868033,50,Manchester City,True,33,Manchester United,False,6,3
+868034,41,Southampton,False,45,Everton,True,1,2
+868035,48,West Ham,True,39,Wolves,False,2,0
+868036,35,Bournemouth,True,46,Leicester,False,2,1
+868037,42,Arsenal,True,40,Liverpool,False,3,2
+868038,51,Brighton,False,47,Tottenham,True,0,1
+868039,49,Chelsea,True,39,Wolves,False,3,0
+868040,52,Crystal Palace,True,63,Leeds,False,2,1
+868041,45,Everton,False,33,Manchester United,True,1,2
+868042,50,Manchester City,True,41,Southampton,False,4,0
+868043,34,Newcastle,True,55,Brentford,False,5,1
+868044,65,Nottingham Forest,,66,Aston Villa,,1,1
+868045,48,West Ham,True,36,Fulham,False,3,1
+868046,66,Aston Villa,False,49,Chelsea,True,0,2
+868047,55,Brentford,True,51,Brighton,False,2,0
+868048,36,Fulham,,35,Bournemouth,,2,2
+868049,63,Leeds,False,42,Arsenal,True,0,1
+868050,46,Leicester,,52,Crystal Palace,,0,0
+868051,40,Liverpool,True,50,Manchester City,False,1,0
+868052,33,Manchester United,,34,Newcastle,,0,0
+868053,41,Southampton,,48,West Ham,,1,1
+868054,47,Tottenham,True,45,Everton,False,2,0
+868055,39,Wolves,True,65,Nottingham Forest,False,1,0
+868056,35,Bournemouth,False,41,Southampton,True,0,1
+868057,42,Arsenal,False,50,Manchester City,True,1,3
+868058,55,Brentford,,49,Chelsea,,0,0
+868059,51,Brighton,,65,Nottingham Forest,,0,0
+868060,36,Fulham,True,66,Aston Villa,False,3,0
+868061,46,Leicester,True,63,Leeds,False,2,0
+868062,52,Crystal Palace,True,39,Wolves,False,2,1
+868063,34,Newcastle,True,45,Everton,False,1,0
+868064,40,Liverpool,True,48,West Ham,False,1,0
+868065,33,Manchester United,True,47,Tottenham,False,2,0
+868066,66,Aston Villa,True,55,Brentford,False,4,0
+868067,49,Chelsea,,33,Manchester United,,1,1
+868068,45,Everton,True,52,Crystal Palace,False,3,0
+868069,63,Leeds,False,36,Fulham,True,2,3
+868070,50,Manchester City,True,51,Brighton,False,3,1
+868071,65,Nottingham Forest,True,40,Liverpool,False,1,0
+868072,41,Southampton,,42,Arsenal,,1,1
+868073,47,Tottenham,False,34,Newcastle,True,1,2
+868074,48,West Ham,True,35,Bournemouth,False,2,0
+868075,39,Wolves,False,46,Leicester,True,0,4
+868076,35,Bournemouth,False,47,Tottenham,True,2,3
+868077,42,Arsenal,True,65,Nottingham Forest,False,5,0
+868078,55,Brentford,,39,Wolves,,1,1
+868079,51,Brighton,True,49,Chelsea,False,4,1
+868080,52,Crystal Palace,True,41,Southampton,False,1,0
+868081,36,Fulham,,45,Everton,,0,0
+868082,46,Leicester,False,50,Manchester City,True,0,1
+868083,40,Liverpool,False,63,Leeds,True,1,2
+868084,33,Manchester United,True,48,West Ham,False,1,0
+868085,34,Newcastle,True,66,Aston Villa,False,4,0
+868086,66,Aston Villa,True,33,Manchester United,False,3,1
+868087,49,Chelsea,False,42,Arsenal,True,0,1
+868088,45,Everton,False,46,Leicester,True,0,2
+868089,63,Leeds,True,35,Bournemouth,False,4,3
+868090,50,Manchester City,True,36,Fulham,False,2,1
+868091,65,Nottingham Forest,,55,Brentford,,2,2
+868092,41,Southampton,False,34,Newcastle,True,1,4
+868093,47,Tottenham,False,40,Liverpool,True,1,2
+868094,48,West Ham,False,52,Crystal Palace,True,1,2
+868095,39,Wolves,False,51,Brighton,True,2,3
+868096,35,Bournemouth,True,45,Everton,False,3,0
+868097,51,Brighton,False,66,Aston Villa,True,1,2
+868098,36,Fulham,False,33,Manchester United,True,1,2
+868099,40,Liverpool,True,41,Southampton,False,3,1
+868100,50,Manchester City,False,55,Brentford,True,1,2
+868101,34,Newcastle,True,49,Chelsea,False,1,0
+868102,65,Nottingham Forest,True,52,Crystal Palace,False,1,0
+868103,47,Tottenham,True,63,Leeds,False,4,3
+868104,48,West Ham,False,46,Leicester,True,0,2
+868105,39,Wolves,False,42,Arsenal,True,0,2
+868106,42,Arsenal,True,48,West Ham,False,3,1
+868107,66,Aston Villa,False,40,Liverpool,True,1,3
+868108,55,Brentford,,47,Tottenham,,2,2
+868109,49,Chelsea,True,35,Bournemouth,False,2,0
+868110,52,Crystal Palace,False,36,Fulham,True,0,3
+868111,45,Everton,False,39,Wolves,True,1,2
+868112,63,Leeds,False,50,Manchester City,True,1,3
+868113,46,Leicester,False,34,Newcastle,True,0,3
+868114,33,Manchester United,True,65,Nottingham Forest,False,3,0
+868115,41,Southampton,False,51,Brighton,True,1,3
+868116,35,Bournemouth,False,52,Crystal Palace,True,0,2
+868117,51,Brighton,False,42,Arsenal,True,2,4
+868118,36,Fulham,True,41,Southampton,False,2,1
+868119,40,Liverpool,True,46,Leicester,False,2,1
+868120,50,Manchester City,,45,Everton,,1,1
+868121,34,Newcastle,,63,Leeds,,0,0
+868122,65,Nottingham Forest,,49,Chelsea,,1,1
+868123,47,Tottenham,False,66,Aston Villa,True,0,2
+868124,48,West Ham,False,55,Brentford,True,0,2
+868125,39,Wolves,False,33,Manchester United,True,0,1
+868126,42,Arsenal,,34,Newcastle,,0,0
+868127,66,Aston Villa,,39,Wolves,,1,1
+868128,55,Brentford,True,40,Liverpool,False,3,1
+868129,49,Chelsea,False,50,Manchester City,True,0,1
+868130,52,Crystal Palace,False,47,Tottenham,True,0,4
+868131,45,Everton,False,51,Brighton,True,1,4
+868132,63,Leeds,,48,West Ham,,2,2
+868133,46,Leicester,False,36,Fulham,True,0,1
+868134,33,Manchester United,True,35,Bournemouth,False,3,0
+868135,41,Southampton,False,65,Nottingham Forest,True,0,1
+868136,66,Aston Villa,True,63,Leeds,False,2,1
+868137,55,Brentford,True,35,Bournemouth,False,2,0
+868138,51,Brighton,True,40,Liverpool,False,3,0
+868139,49,Chelsea,True,52,Crystal Palace,False,1,0
+868140,45,Everton,False,41,Southampton,True,1,2
+868141,33,Manchester United,True,50,Manchester City,False,2,1
+868142,34,Newcastle,True,36,Fulham,False,1,0
+868143,65,Nottingham Forest,True,46,Leicester,False,2,0
+868144,47,Tottenham,False,42,Arsenal,True,0,2
+868145,39,Wolves,True,48,West Ham,False,1,0
+868146,35,Bournemouth,,65,Nottingham Forest,,1,1
+868147,42,Arsenal,True,33,Manchester United,False,3,2
+868148,52,Crystal Palace,,34,Newcastle,,0,0
+868149,36,Fulham,False,47,Tottenham,True,0,1
+868150,63,Leeds,,55,Brentford,,0,0
+868151,46,Leicester,,51,Brighton,,2,2
+868152,40,Liverpool,,49,Chelsea,,0,0
+868153,50,Manchester City,True,39,Wolves,False,3,0
+868154,41,Southampton,False,66,Aston Villa,True,0,1
+868155,48,West Ham,True,45,Everton,False,2,0
+868156,66,Aston Villa,False,46,Leicester,True,2,4
+868157,55,Brentford,True,41,Southampton,False,3,0
+868158,51,Brighton,True,35,Bournemouth,False,1,0
+868159,49,Chelsea,,36,Fulham,,0,0
+868160,45,Everton,True,42,Arsenal,False,1,0
+868161,33,Manchester United,True,52,Crystal Palace,False,2,1
+868162,34,Newcastle,,48,West Ham,,1,1
+868163,65,Nottingham Forest,True,63,Leeds,False,1,0
+868164,47,Tottenham,True,50,Manchester City,False,1,0
+868165,39,Wolves,True,40,Liverpool,False,3,0
+868166,35,Bournemouth,,34,Newcastle,,1,1
+868167,42,Arsenal,,55,Brentford,,1,1
+868168,52,Crystal Palace,,51,Brighton,,1,1
+868169,36,Fulham,True,65,Nottingham Forest,False,2,0
+868170,63,Leeds,False,33,Manchester United,True,0,2
+868171,46,Leicester,True,47,Tottenham,False,4,1
+868172,40,Liverpool,True,45,Everton,False,2,0
+868173,50,Manchester City,True,66,Aston Villa,False,3,1
+868174,41,Southampton,False,39,Wolves,True,1,2
+868175,48,West Ham,,49,Chelsea,,1,1
+868176,66,Aston Villa,False,42,Arsenal,True,2,4
+868177,55,Brentford,,52,Crystal Palace,,1,1
+868178,51,Brighton,False,36,Fulham,True,0,1
+868179,49,Chelsea,False,41,Southampton,True,0,1
+868180,45,Everton,True,63,Leeds,False,1,0
+868181,33,Manchester United,True,46,Leicester,False,3,0
+868182,34,Newcastle,False,40,Liverpool,True,0,2
+868183,65,Nottingham Forest,,50,Manchester City,,1,1
+868184,47,Tottenham,True,48,West Ham,False,2,0
+868185,39,Wolves,False,35,Bournemouth,True,0,1
+868186,35,Bournemouth,False,50,Manchester City,True,1,4
+868187,52,Crystal Palace,,40,Liverpool,,0,0
+868188,45,Everton,False,66,Aston Villa,True,0,2
+868189,36,Fulham,,39,Wolves,,1,1
+868190,63,Leeds,True,41,Southampton,False,1,0
+868191,46,Leicester,False,42,Arsenal,True,0,1
+868192,33,Manchester United,True,55,Brentford,False,1,0
+868193,34,Newcastle,True,51,Brighton,False,4,1
+868194,47,Tottenham,True,49,Chelsea,False,2,0
+868195,48,West Ham,True,65,Nottingham Forest,False,4,0
+868196,42,Arsenal,True,35,Bournemouth,False,3,2
+868197,66,Aston Villa,True,52,Crystal Palace,False,1,0
+868198,55,Brentford,True,36,Fulham,False,3,2
+868199,51,Brighton,True,48,West Ham,False,4,0
+868200,49,Chelsea,True,63,Leeds,False,1,0
+868201,40,Liverpool,True,33,Manchester United,False,7,0
+868202,50,Manchester City,True,34,Newcastle,False,2,0
+868203,65,Nottingham Forest,,45,Everton,,2,2
+868204,41,Southampton,True,46,Leicester,False,1,0
+868205,39,Wolves,True,47,Tottenham,False,1,0
+868206,35,Bournemouth,True,40,Liverpool,False,1,0
+868207,52,Crystal Palace,False,50,Manchester City,True,0,1
+868208,45,Everton,True,55,Brentford,False,1,0
+868209,36,Fulham,False,42,Arsenal,True,0,3
+868210,63,Leeds,,51,Brighton,,2,2
+868211,46,Leicester,False,49,Chelsea,True,1,3
+868212,33,Manchester United,,41,Southampton,,0,0
+868213,34,Newcastle,True,39,Wolves,False,2,1
+868214,47,Tottenham,True,65,Nottingham Forest,False,3,1
+868215,48,West Ham,,66,Aston Villa,,1,1
+868216,42,Arsenal,True,52,Crystal Palace,False,4,1
+868217,66,Aston Villa,True,35,Bournemouth,False,3,0
+868218,55,Brentford,,46,Leicester,,1,1
+868219,51,Brighton,True,33,Manchester United,False,1,0
+868220,49,Chelsea,,45,Everton,,2,2
+868221,40,Liverpool,True,36,Fulham,False,1,0
+868222,50,Manchester City,True,48,West Ham,False,3,0
+868223,65,Nottingham Forest,False,34,Newcastle,True,1,2
+868224,41,Southampton,,47,Tottenham,,3,3
+868225,39,Wolves,False,63,Leeds,True,2,4
+868226,35,Bournemouth,True,36,Fulham,False,2,1
+868227,42,Arsenal,True,63,Leeds,False,4,1
+868228,51,Brighton,,55,Brentford,,3,3
+868229,49,Chelsea,False,66,Aston Villa,True,0,2
+868230,52,Crystal Palace,True,46,Leicester,False,2,1
+868231,45,Everton,,47,Tottenham,,1,1
+868232,50,Manchester City,True,40,Liverpool,False,4,1
+868233,34,Newcastle,True,33,Manchester United,False,2,0
+868234,65,Nottingham Forest,,39,Wolves,,1,1
+868235,48,West Ham,True,41,Southampton,False,1,0
+868236,66,Aston Villa,True,65,Nottingham Forest,False,2,0
+868237,55,Brentford,False,34,Newcastle,True,1,2
+868238,36,Fulham,False,48,West Ham,True,0,1
+868239,63,Leeds,False,52,Crystal Palace,True,1,5
+868240,46,Leicester,False,35,Bournemouth,True,0,1
+868241,40,Liverpool,,42,Arsenal,,2,2
+868242,33,Manchester United,True,45,Everton,False,2,0
+868243,41,Southampton,False,50,Manchester City,True,1,4
+868244,47,Tottenham,True,51,Brighton,False,2,1
+868245,39,Wolves,True,49,Chelsea,False,1,0
+868246,66,Aston Villa,True,34,Newcastle,False,3,0
+868247,49,Chelsea,False,51,Brighton,True,1,2
+868248,45,Everton,False,36,Fulham,True,1,3
+868249,63,Leeds,False,40,Liverpool,True,1,6
+868250,50,Manchester City,True,46,Leicester,False,3,1
+868251,65,Nottingham Forest,False,33,Manchester United,True,0,2
+868252,41,Southampton,False,52,Crystal Palace,True,0,2
+868253,47,Tottenham,False,35,Bournemouth,True,2,3
+868254,48,West Ham,,42,Arsenal,,2,2
+868255,39,Wolves,True,55,Brentford,False,2,0
+868256,35,Bournemouth,False,48,West Ham,True,0,4
+868257,42,Arsenal,,41,Southampton,,3,3
+868258,55,Brentford,,66,Aston Villa,,1,1
+868259,51,Brighton,,50,Manchester City,,1,1
+868260,52,Crystal Palace,,45,Everton,,0,0
+868261,36,Fulham,True,63,Leeds,False,2,1
+868262,46,Leicester,True,39,Wolves,False,2,1
+868263,40,Liverpool,True,65,Nottingham Forest,False,3,2
+868264,33,Manchester United,True,49,Chelsea,False,4,1
+868265,34,Newcastle,True,47,Tottenham,False,6,1
+868266,45,Everton,False,34,Newcastle,True,1,4
+868267,63,Leeds,,46,Leicester,,1,1
+868268,65,Nottingham Forest,True,51,Brighton,False,3,1
+868269,47,Tottenham,,33,Manchester United,,2,2
+868270,48,West Ham,False,40,Liverpool,True,1,2
+868271,39,Wolves,True,52,Crystal Palace,False,2,0
+868272,66,Aston Villa,True,36,Fulham,False,1,0
+868273,49,Chelsea,False,55,Brentford,True,0,2
+868274,41,Southampton,False,35,Bournemouth,True,0,1
+868275,50,Manchester City,True,42,Arsenal,False,4,1
+868276,35,Bournemouth,True,63,Leeds,False,4,1
+868277,42,Arsenal,True,49,Chelsea,False,3,1
+868278,55,Brentford,True,65,Nottingham Forest,False,2,1
+868279,51,Brighton,True,39,Wolves,False,6,0
+868280,52,Crystal Palace,True,48,West Ham,False,4,3
+868281,36,Fulham,False,50,Manchester City,True,1,2
+868282,46,Leicester,,45,Everton,,2,2
+868283,40,Liverpool,True,47,Tottenham,False,4,3
+868284,33,Manchester United,True,66,Aston Villa,False,1,0
+868285,34,Newcastle,True,41,Southampton,False,3,1
+868286,35,Bournemouth,False,49,Chelsea,True,1,3
+868287,51,Brighton,False,45,Everton,True,1,5
+868288,36,Fulham,True,46,Leicester,False,5,3
+868289,40,Liverpool,True,55,Brentford,False,1,0
+868290,50,Manchester City,True,63,Leeds,False,2,1
+868291,34,Newcastle,False,42,Arsenal,True,0,2
+868292,65,Nottingham Forest,True,41,Southampton,False,4,3
+868293,47,Tottenham,True,52,Crystal Palace,False,1,0
+868294,48,West Ham,True,33,Manchester United,False,1,0
+868295,39,Wolves,True,66,Aston Villa,False,1,0
+868296,42,Arsenal,False,51,Brighton,True,0,3
+868297,66,Aston Villa,True,47,Tottenham,False,2,1
+868298,55,Brentford,True,48,West Ham,False,2,0
+868299,49,Chelsea,,65,Nottingham Forest,,2,2
+868300,52,Crystal Palace,True,35,Bournemouth,False,2,0
+868301,45,Everton,False,50,Manchester City,True,0,3
+868302,63,Leeds,,34,Newcastle,,2,2
+868303,46,Leicester,False,40,Liverpool,True,0,3
+868304,33,Manchester United,True,39,Wolves,False,2,0
+868305,41,Southampton,False,36,Fulham,True,0,2
+868306,35,Bournemouth,False,33,Manchester United,True,0,1
+868307,51,Brighton,True,41,Southampton,False,3,1
+868308,36,Fulham,,52,Crystal Palace,,2,2
+868309,40,Liverpool,,66,Aston Villa,,1,1
+868310,50,Manchester City,True,49,Chelsea,False,1,0
+868311,34,Newcastle,,46,Leicester,,0,0
+868312,65,Nottingham Forest,True,42,Arsenal,False,1,0
+868313,47,Tottenham,False,55,Brentford,True,1,3
+868314,48,West Ham,True,63,Leeds,False,3,1
+868315,39,Wolves,,45,Everton,,1,1
+868316,42,Arsenal,True,39,Wolves,False,5,0
+868317,66,Aston Villa,True,51,Brighton,False,2,1
+868318,55,Brentford,True,50,Manchester City,False,1,0
+868319,49,Chelsea,,34,Newcastle,,1,1
+868320,52,Crystal Palace,,65,Nottingham Forest,,1,1
+868321,45,Everton,True,35,Bournemouth,False,1,0
+868322,63,Leeds,False,47,Tottenham,True,1,4
+868323,46,Leicester,True,48,West Ham,False,2,1
+868324,33,Manchester United,True,36,Fulham,False,2,1
+868325,41,Southampton,,40,Liverpool,,4,4
