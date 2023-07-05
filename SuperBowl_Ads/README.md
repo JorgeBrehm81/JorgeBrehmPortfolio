@@ -46,7 +46,8 @@ Why did I used the median rather than the average: Because the data contained ou
 
 ## Conclusions
 
-- Bud Light has made 64 super bowl commercials! 20 more than the next top brand (Doritos).
+- Bud Light has made 64 super bowl commercials! 20 more than the next top brand (Budweiser).
+- Bud Light made 7 ads in 2003 and 2008.
 - The NFL is the one who spends more per TV spot because their commercials are typically the longest.
 - Funny TV spot = More YT Views
   
